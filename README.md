@@ -73,6 +73,4 @@ Built in the **University of Nottingham Computer Science Lab** as a creative exp
 
 > “By day, we study history. By night, history studies us.”
 
----
 
-Do you want me to make this README more **formal** (like a research-lab project doc), or more **playful/marketing-style** (like a game pitch on GitHub)?
