@@ -16,8 +16,22 @@ But by night? Everything comes to life.
 * GPS triggers guide players as they explore the campus after dark.
 
 This project is an **MVP** (minimum viable product) of a **mixed-reality game** where the legends of computing, and the artefacts of science, break free of their physical limits and become interactive companions—or challengers.
+---
+
+# Scientist 
+![Image 1](images/scientist.png) 
+
+
+# Artefacts 
+<p align="center">
+  <img src="images/artefacts.png" width="45%" style="height:auto;"/>
+  <img src="images/artefacts2.png" width="45%" style="height:auto;"/>
+</p>
+
 
 ---
+
+
 
 ## ✨ Features
 
