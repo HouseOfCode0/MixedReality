@@ -1,9 +1,5 @@
 # MixedReality
 
-Here’s a draft README you could use for your project, written in a way that’s playful, clear, and explains the concept of your MVP:
-
----
-
 # 🌀 Mixed Reality: *Nottingham Nights*
 
 **When the lights go out, the lab wakes up.**
