@@ -14,8 +14,8 @@ Welcome to **Nottingham Nights**, a mixed reality experience built in the Univer
 
 # Artefacts 
 <p align="center">
-  <img src="images/artefacts.png" width="45%" style="height:auto;"/>
-  <img src="images/artefacts2.png" width="45%" style="height:auto;"/>
+  <img src="images/artefacts.png" width="46%" style="height:200px;"/>
+  <img src="images/artefacts2.png" width="46%" style="height:200px;"/>
 </p>
 
 
