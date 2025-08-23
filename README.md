@@ -6,16 +6,6 @@
 
 Welcome to **Nottingham Nights**, a mixed reality experience built in the University of Nottingham’s Computer Science lab, where history and technology collide.
 
-By day, the lab looks ordinary—posters of **Alan Turing**, **Ada Lovelace**, and other pioneers hang quietly on the walls, artefacts of computing history sit neatly in their displays, and the GPS map of campus feels static.
-
-But by night? Everything comes to life.
-
-* Posters step out of their frames.
-* Artefacts run wild down the corridors.
-* Generative AI breathes voices, personalities, and motion into objects.
-* GPS triggers guide players as they explore the campus after dark.
-
-This project is an **MVP** (minimum viable product) of a **mixed-reality game** where the legends of computing, and the artefacts of science, break free of their physical limits and become interactive companions—or challengers.
 ---
 
 # Scientist 
