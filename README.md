@@ -8,15 +8,14 @@ Welcome to **Nottingham Nights**, a mixed reality experience built in the Univer
 
 ---
 
-# Scientist 
-![Image 1](images/scientist.png) 
+
+#  Generative AI talking images 
+![Image 1](gif/clip.gif) 
 
 
-# Artefacts 
-<p align="center">
-  <img src="images/artefacts.png" width="46%" style="height:200px;"/>
-  <img src="images/artefacts2.png" width="46%" style="height:200px;"/>
-</p>
+
+
+
 
 
 ---
