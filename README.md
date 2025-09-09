@@ -8,8 +8,8 @@ Welcome to , a mixed reality experience built in the University's Computer Scien
 
 ---
 
-#  Gameplay AI talking images 
-![Image 1](gif/clip.gif) 
+#  Gameplay
+![Image 1](gif/alan.gif) 
 
 
 #  Generative AI talking images 
